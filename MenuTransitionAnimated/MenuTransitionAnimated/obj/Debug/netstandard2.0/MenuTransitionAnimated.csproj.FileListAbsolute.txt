@@ -1,0 +1,16 @@
+C:\Users\joel\source\repos\MenuTransitionAnimated\MenuTransitionAnimated\MenuTransitionAnimated\bin\Debug\netstandard2.0\MenuTransitionAnimated.deps.json
+C:\Users\joel\source\repos\MenuTransitionAnimated\MenuTransitionAnimated\MenuTransitionAnimated\bin\Debug\netstandard2.0\MenuTransitionAnimated.dll
+C:\Users\joel\source\repos\MenuTransitionAnimated\MenuTransitionAnimated\MenuTransitionAnimated\bin\Debug\netstandard2.0\MenuTransitionAnimated.pdb
+C:\Users\joel\source\repos\MenuTransitionAnimated\MenuTransitionAnimated\MenuTransitionAnimated\obj\Debug\netstandard2.0\MenuTransitionAnimated.csproj.AssemblyReference.cache
+C:\Users\joel\source\repos\MenuTransitionAnimated\MenuTransitionAnimated\MenuTransitionAnimated\obj\Debug\netstandard2.0\MenuTransitionAnimated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel\source\repos\MenuTransitionAnimated\MenuTransitionAnimated\MenuTransitionAnimated\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joel\source\repos\MenuTransitionAnimated\MenuTransitionAnimated\MenuTransitionAnimated\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\joel\source\repos\MenuTransitionAnimated\MenuTransitionAnimated\MenuTransitionAnimated\obj\Debug\netstandard2.0\MenuTransitionAnimated.AssemblyInfoInputs.cache
+C:\Users\joel\source\repos\MenuTransitionAnimated\MenuTransitionAnimated\MenuTransitionAnimated\obj\Debug\netstandard2.0\MenuTransitionAnimated.AssemblyInfo.cs
+C:\Users\joel\source\repos\MenuTransitionAnimated\MenuTransitionAnimated\MenuTransitionAnimated\obj\Debug\netstandard2.0\MenuTransitionAnimated.csproj.CoreCompileInputs.cache
+C:\Users\joel\source\repos\MenuTransitionAnimated\MenuTransitionAnimated\MenuTransitionAnimated\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joel\source\repos\MenuTransitionAnimated\MenuTransitionAnimated\MenuTransitionAnimated\obj\Debug\netstandard2.0\MenuTransitionAnimated.dll
+C:\Users\joel\source\repos\MenuTransitionAnimated\MenuTransitionAnimated\MenuTransitionAnimated\obj\Debug\netstandard2.0\refint\MenuTransitionAnimated.dll
+C:\Users\joel\source\repos\MenuTransitionAnimated\MenuTransitionAnimated\MenuTransitionAnimated\obj\Debug\netstandard2.0\MenuTransitionAnimated.pdb
+C:\Users\joel\source\repos\MenuTransitionAnimated\MenuTransitionAnimated\MenuTransitionAnimated\obj\Debug\netstandard2.0\ref\MenuTransitionAnimated.dll
+C:\Users\joel\source\repos\MenuTransitionAnimated\MenuTransitionAnimated\MenuTransitionAnimated\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
